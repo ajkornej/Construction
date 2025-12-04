@@ -1,0 +1,3 @@
+#include? "exam.release.xcconfig"
+BUNDLE_ID = exam
+DISPLAY_NAME = exam
